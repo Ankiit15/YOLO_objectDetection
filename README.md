@@ -1,5 +1,7 @@
 # YOLO_objectDetection
 
+![](implementation.gif)
+
 ## If you are starting with YOLO, this is the first thing you need to do.
 
 git clone https://github.com/pjreddie/darknet
