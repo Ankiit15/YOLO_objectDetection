@@ -9,6 +9,7 @@ make
 ## It should go all fine, and you have the darknet platform installed. The next step will be to download pre-trained weights. We will download the default weights and also the optimised weights and try them.
 
 wget https://pjreddie.com/media/files/yolov3.weights
+
 wget https://pjreddie.com/media/files/yolov3-tiny.weights
 
 Download anyone of those two. yolo-tiny is a smaller, faster but slightly less accurate model.
