@@ -32,7 +32,9 @@ coco.data – A config data file kept in the cfg/ directory (In Darknet)
 
 
 ## Run image_YOLO.py for image files
+Will upload soon
 ## Run video_YOLO.py for videos
+Will upload soon
 
 
 
