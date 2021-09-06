@@ -8,7 +8,6 @@ git clone https://github.com/pjreddie/darknet
 
 cd darknet
 
-make
 
 ## It should go all fine, and you have the darknet platform installed. The next step will be to download pre-trained weights. We will download the default weights and also the optimised weights and try them.
 
